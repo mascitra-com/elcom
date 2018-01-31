@@ -1,0 +1,228 @@
+
+::selection {
+    color: #fff;
+    background: #27c4e7;
+}
+
+::-moz-selection {
+    color: #fff;
+    background: #27c4e7;
+}
+
+.site-color {
+    color: #27c4e7 !important;
+}
+
+a:hover,
+a:focus, a.link {
+    color: #27c4e7;
+}
+
+.search-full, .search-input {
+    background: #27c4e7;
+}
+
+.search-close {
+    color: #27c4e7;
+}
+
+.searchInputBox .search-btn {
+    color: #fff;
+}
+
+.btn-primary, .btn-primary, .product:hover .add-fav:hover, .product:hover .add-fav.active {
+    background-color: #27c4e7;
+    color: #FFFFFF;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+    background-color: #27c4e7;
+    border-color: #27c4e7;
+    color: #FFFFFF;
+}
+
+.btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    background: #16A085;
+}
+
+.navbar-tshop {
+    background: #011b36;
+}
+
+.navbar-top {
+    background: #092C52;
+}
+
+.navbar-nav > li > a {
+    color: #fff;
+}
+
+.nav > li.active, .nav > li > a:hover, .nav > li > a:focus, .nav > li:hover > a {
+    background: rgb(54, 151, 219);
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus, .cartMenu:hover > a.dropdown-toggle {
+    background: rgb(54, 151, 219);
+}
+
+.dropdown-menu {
+    border-top: solid rgb(54, 151, 219);
+}
+
+.search-box:hover .form-control {
+    background: #27c4e7;
+}
+
+.search-box:hover .btn-nobg {
+    color: #27c4e7;
+}
+
+.mCS-dark-2 > .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background: rgba(26, 188, 156, 0.7) !important;
+}
+
+.action-control a:hover, .action-control a.active {
+    color: #fff;
+    background: rgb(54, 151, 219);
+}
+
+.product:hover, .featuredImgLook2 .inner:hover {
+    border: 1px solid #27c4e7;
+}
+
+.subCategoryList .thumbnail:hover {
+    border: 1px solid #27c4e7;
+}
+
+.pager2 a {
+    border: 1px solid #27c4e7;
+}
+
+.pager2 a.selected {
+    background: #27c4e7;
+}
+
+.btn-site, .newsLatterBox .btn {
+    background: #27c4e7;
+}
+
+.btn-discover:hover, .btn-site:hover, .newsLatterBox .btn:hover {
+    background: rgb(54, 151, 219);
+}
+
+.full {
+    width: 100%;
+}
+
+.footer a:hover {
+    color: #27c4e7;
+}
+
+.footer {
+    /*border-top: solid 3px #27c4e7;*/
+}
+
+.modal-header {
+    background: #27c4e7;
+}
+
+.form-control:focus {
+    border-color: #27c4e7;
+}
+
+.new-product {
+    background: #27c4e7;
+}
+
+#pager a.cycle-pager-active {
+    background: rgba(26, 188, 156, 0.5);
+}
+
+/* tree menu */
+
+.nav.tree > li.active, .nav.tree > li > a:hover, .nav.tree > li > a:focus, .nav.tree > li:hover > a {
+    background: none;
+    color: #2a2a2a;
+}
+
+.nav.tree .open-tree > a, .nav.tree .open-tree > a:hover, .nav.tree .open-tree > a:focus {
+    background: none;
+    font-weight: bold;
+    color: #2a2a2a;
+}
+
+.panel-default > .panel-heading {
+    border-top: 4px solid #27c4e7;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .nav-tabs > li:hover > a {
+    background: #BFC9CA;
+}
+
+.nav-tabs {
+    border-bottom: 3px solid #BFC9CA;
+}
+
+.socialIcon a:hover {
+    background: #27c4e7;
+}
+
+.cart-actions button, .cart-actions .wishlist {
+    background: none repeat scroll 0 0 #27c4e7;
+    border: 2px solid rgb(54, 151, 219);
+}
+
+.cart-actions button:hover {
+    background: #fff;
+    color: #2a2a2a;
+    border: solid 2px #27c4e7;
+}
+
+.sp-thumbs a:hover, .sp-thumbs a:active, .sp-current, sp-current:visited {
+    border: 2px solid #27c4e7 !important;
+}
+
+.promo-1 {
+    background: none repeat scroll 0 0 rgb(54, 151, 219);
+}
+
+@media (max-width: 767px) {
+    .miniCartFooter {
+        background: rgb(54, 151, 219) !important;
+    }
+}
+
+#pager2 span.cycle-pager-active {
+}
+
+#pager2 span.cycle-pager-active {
+    background: rgb(54, 151, 219) !important;
+}
+
+#pager2 span {
+    border: 2px solid rgb(54, 151, 219)
+}
+
+.orderStep li.active a {
+    background: #27c4e7;
+}
+
+.orderStep li.active a:after {
+    border-top-color: #27c4e7 !important;
+}
+
+.orderStep li a {
+    background: #27c4e7;
+}
+
+darkcoilor {
+    background: #15a488;
+}
+
+citecolor {
+    color: #27c4e7 !important;
+}
+
+citecolor:hover {
+    color: #27c4e7 !important;
+}
